@@ -1,0 +1,7 @@
+{
+  "name": "Dashing",
+  "description": "Dashing is a Dashboard app based on Ruby and Coffescript",
+  "repository": "https://github.com/essamsalah/dashing-1",
+  "logo": "http://shopify.github.io/dashing/images/bowtie.png",
+  "keywords": ["Dashboard", "Ruby", "Coffescript"]
+}
